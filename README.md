@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Pratik-Arya/Pratik-Arya/blob/main/Screenshot%202024-07-21%20163945.png)
 <h1 align="center">Hi 👋, I'm Pratik Arya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
